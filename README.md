@@ -19,7 +19,7 @@ Este proyecto funciona con [Bluetooth Beacons BEEKS](https://github.com/EiderDia
 # :runner: Primeros pasos
 - [preparacion experimental](https://github.com/EiderDiaz/Inteligencia-Ambiental/blob/master/Preparaci%C3%B3n%20experimental.md)
 - [Documentación compilada](https://drive.google.com/open?id=0B_SXGEKN91UQOUJ1MzVOWWNlZHM)
--  <a href="mailto:eiderdiazm95@gmail.com"> Correo </a>
+
 
 
 
@@ -34,7 +34,7 @@ Este proyecto funciona con [Bluetooth Beacons BEEKS](https://github.com/EiderDia
 # :closed_book: Colofón
 - Créditos - todos los que han contribuido código, bibliotecas de las que hemos prestado código. (como pongo a un user de git kvaviles)
 - Derechos de autor y licencia: especifique el tipo de licencia (normalmente "Apache 2.0" o "Todos los derechos reservados y confidenciales") y consulte el archivo LICENSE.md. No pegue el contenido de la licencia aquí.
-- Cómo contribuir ()vemos despues
+- Para contribuir con mejoras envia un pull request o envia un : <a href="mailto:eiderdiazm95@gmail.com"> Correo </a>
 ### Referencias
 Jose de J RUGELES and Deiby LEON. Técnicas basadas en distancias. In Técnicas de
 localización de nodos inalámbricos mediante redes de sensores.
