@@ -26,7 +26,6 @@ Este proyecto funciona con [Bluetooth Beacons BEEKS](https://github.com/EiderDia
 # :computer: Usabilidad Detallada & Información para el desarrollador
 - Modelos e interfaz(cambiar el nombre de este subtitulo yo al rato)
 - [Configuración Detallada](https://github.com/EiderDiaz/Inteligencia-Ambiental/blob/master/Configuraci%C3%B3nDetallada.md)
-- Complementos (quien sabe)
 - Cómo Funciona (gradientes y todo el coso entre yo y javi)
 - [Componentes Importantes](https://github.com/EiderDiaz/Inteligencia-Ambiental/blob/master/ComponentesImportantes.md)
 - Limitaciones y problemas conocidos (errores y toda la cosa, yo y javi y sosa )
